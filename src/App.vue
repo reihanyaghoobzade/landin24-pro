@@ -1,7 +1,7 @@
 <template>
   <main class="flex-1">
     <Header></Header>
-    <section class="container mx-auto">
+    <section class="container mx-auto grid grid-cols-5 gap-3 my-6">
       <product-card></product-card>
     </section>
   </main>
