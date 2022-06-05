@@ -3,10 +3,6 @@
     <Header></Header>
     <section class="container mx-auto grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 my-6">
       <product-card></product-card>
-      <product-card></product-card>
-      <product-card></product-card>
-      <product-card></product-card>
-      <product-card></product-card>
     </section>
   </main>
   <Footer></Footer>
